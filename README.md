@@ -14,12 +14,12 @@ Responsive Design: CodePlay provides a responsive design to preview your website
 # Getting Started
 To start using CodEdi, follow these simple steps:
 
-Open your web browser and navigate to CodEdi.
+1. Open your web browser and navigate to CodEdi.
 
-You will see an editor area split into three sections (HTML, CSS, and JavaScript). Write your code in the respective sections.
+2. You will see an editor area split into three sections (HTML, CSS, and JavaScript). Write your code in the respective sections.
 
-As you write your code, the live preview on the right side will update in real-time.
+3. As you write your code, the live preview on the right side will update in real-time.
 
-Use the responsive design buttons to preview how your website looks on different devices (e.g., desktop, tablet, mobile).
+4. Use the responsive design buttons to preview how your website looks on different devices (e.g., desktop, tablet, mobile).
 
 ![Screenshot](ss.png)
