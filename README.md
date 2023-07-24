@@ -7,9 +7,9 @@ Live Preview: See the live preview of your website as you write code.
 Responsive Design: CodePlay provides a responsive design to preview your website on different devices.
 
 # Technologies Used
-HTML.
-CSS.
-JavaScript.
+1. HTML
+2. CSS
+3. JavaScript
 
 # Getting Started
 To start using CodEdi, follow these simple steps:
